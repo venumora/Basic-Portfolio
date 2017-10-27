@@ -137,9 +137,19 @@ a {
 	display: inline-block;
 }
 
+.navigation-item-action:hover {
+	color: #4aaaa5;
+}
+
 .social-icon {
 	height: 60px;
 	width: 60px;
+}
+.social-icon:hover {
+	-moz-transform: scale(1.25);
+	-o-transform: scale(1.25);
+	-webkit-transform: scale(1.25);
+	transform: scale(1.25);
 }
 
 .float-left {
