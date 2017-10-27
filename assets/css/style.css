@@ -41,6 +41,7 @@ li {
 
 header {
 	background-color: #FFF;
+	border-bottom: 5px solid #ddd;
 }
 
 h1, h2, h3, h4, h5 {
@@ -93,11 +94,13 @@ a {
 	width: 650px;
 	background-color: #FFF;
 	margin-right: 40px;
+	border: 2px solid #ddd;
 }
 
 .main-aside {
 	width: 270px;
 	background-color: #FFF;
+	border: 2px solid #ddd;
 }
 
 .site-logo {
@@ -189,8 +192,8 @@ a {
  	border-bottom: 1px solid #CCC;
  }
 
- .margin-left-15-px {
- 	margin-left: 15px;
+ .margin-left-13-px {
+ 	margin-left: 13px;
  }
 
  .margin-right-40-px {
